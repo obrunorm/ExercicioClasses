@@ -3,10 +3,10 @@ package ExercicioClasse;
 public class cliente {
 
 	 String nome, endereço, produto;
-	 int idade;
-	 int rg;
-	 int cpf;
-	 int dinheiro;
+	 String idade;
+	 String rg;
+	 String cpf;
+	 int dinheiro = 10;
 	
 	//métodos
 	void comprar(int comprar) {
